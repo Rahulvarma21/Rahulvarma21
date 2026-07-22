@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulvarma21" alt="rahulvarma21" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Development**
-
 - 📫 How to reach me **chamarthirahul2105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
